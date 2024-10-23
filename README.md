@@ -2,5 +2,3 @@
 A simple Frogger game using WebGL and Three.js. (Extra credit done for the assignment includes having a score system, adding an animated effect for the frog dying, and incorporating music/sound effects into thhe game)
 
 Game Description: In the Frogger game, the main objective of the game is to get the frog to all 5 homes at the end before losing all your 5 lives. The frog can be moved left/right/up/down using the respective arrow keys, and you will have to avoid moving cars and use the logs/turtles wisely in order to reach each home at the end. After completing the objective, the game basically repeats itself until the player loses all of his/her lives, with the final score being displayed once the player has depleted all of his/her lives. Additionally, pressing the "!" key changes the aesthetics of the game and can also be pressed once again to revert back to the original aesthetics, but pressing the key also resets the game in the process regardless.
-
-(Demo video included in the submission)
